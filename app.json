@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "AppAgenda",
+    "slug": "AppAgenda",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
